@@ -11,7 +11,7 @@
 
 - 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**  
 - 🌱 I'm learning **Web Development**, **Python**, **Data Structures**, and **Git**
-- 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `Python`, and `Git`
+- 💬 Ask me about: `HTML`, `CSS`, `Python`, and `Git`
 - 🔭 I'm currently working on personal projects and contributing to GitHub
 - 📫 How to reach me: **piyush898900@gmail.com**
 - ⚡ Fun fact: I love debugging more than coding 😄
